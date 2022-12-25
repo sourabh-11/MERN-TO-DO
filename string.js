@@ -15,13 +15,15 @@ let a = "please locat the you location"
 // x.toString();
 // console.log(x.toString());
 
-console.log(Number(true),
-Number(false),
-Number("10"),
-Number("  10"),
-Number("10  "),
-Number(" 10  "),
-Number("10.33"),
-Number("10,33"),
-Number("10 33"),
-Number("John"))
+// console.log(Number(true),
+// Number(false),
+// Number("10"),
+// Number("  10"),
+// Number("10  "),
+// Number(" 10  "),
+// Number("10.33"),
+// Number("10,33"),
+// Number("10 33"),
+// Number("John")
+let k = Math.floor(Math.random()*10);
+console.log(k);
