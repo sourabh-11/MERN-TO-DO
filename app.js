@@ -71,3 +71,58 @@
 
 //   x= 4;
 //   console.log(typeof(x));
+
+
+// object 
+// const person = {
+//     firstname: "John",
+//     lastname: "Doe",
+//     age: 50,
+//     eyecolor: "blue",
+//     Car: {
+//         name:"sourabh",
+//         class: 234,
+//     }
+//   };
+// person.hight= 34;
+// let txt = "";
+// for (let x in person) {
+//     txt += person[x];
+//   }
+//   document.getElementById("demo").innerHTML = txt;
+//   document.getElementById("demo").innerHTML = person.Car.name;
+// person.nationality  = "english"
+// delete person.age;
+//  person.age = 384;
+// //   document.getElementById("demo").innerHTML = person.nationality ;
+//   document.getElementById("demo").innerHTML = person.age;
+
+
+
+
+// const myObj = {
+//     name: "John",
+//     age: 30,
+//     cars: [
+//       {name:"Ford", models:["Fiesta", "Focus", "Mustang"]},
+//       {name:"BMW", models:["320", "X3", "X5"]},
+//       {name:"Fiat", models:["500", "Panda"]}
+//     ]
+//   }
+// let x = "";
+//   for (let i in myObj.cars) {
+//     x +=  myObj.cars[i].name 
+//     for (let j in myObj.cars[i].models) {
+//       x += myObj.cars[i].models[j] 
+//     }
+//   }
+//   for(let i in myObj.cars){
+//       x += myObj.cars[i].name;
+//       for(let j in myobj.cars[i].models){
+//        x += myObj.cars[i].models[j];
+
+//    }
+
+// }
+// document.getElementById("demo").innerHTML = x;
+  
