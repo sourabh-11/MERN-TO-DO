@@ -125,4 +125,49 @@
 
 // }
 // document.getElementById("demo").innerHTML = x;
-  
+
+
+
+// function in java script
+// function fun(w){
+//     return w;
+// }
+// document.getElementById("demo").innerHTML = fun(3);
+
+
+// string 
+// let a = "this is an a string"
+// let b = "this is an 2nd string"
+// let c = "this is an 3rd string"
+
+
+// console.log(a.length);
+
+// let z  = "my name is \"sourabj\" ok fine"
+// console.log(z);
+// let a = 'it\'s alright'
+// console.log(a);
+
+// let a  = new String("i want to inset")
+// console.log(typeof(a));
+
+// let x = new String("John");
+// let y = "john"
+// console.log(x==y);
+
+
+// string method 
+// let a = "hey good morning "
+// console.log(a.slice(2,12));
+// console.log(a.substring(2,12));
+// // console.log(a.substr(2,12));
+// let  b= a.replace  ="good evening"
+// console.log(b);
+// let text = "                I love cats. Cats are very easy to love. Cats are very popular.       "
+// // text = text.replaceAll("cats","dogs");
+// // // text = text.replaceAll("cats","dogs")
+// console.log(text.trimStart());
+// console.log(text.trimEnd());
+
+
+// 
