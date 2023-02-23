@@ -27,7 +27,7 @@
 // console.log(y==x);    //false
 
 
-let x = null;
+// let x = null;
 // console.log(x);
 // console.log(typeof(x));
 
@@ -43,6 +43,15 @@ let x = null;
 // console.log(z);
 
 
+// variables
+
+// let s = 45;{
+
+//     var aa =44;
+// }
+// console.log(aa);
+// var aa ="string"
+// console.log(aa);
 
 
 
@@ -50,11 +59,15 @@ let x = null;
 
 //     object
 
-const car  = {name:'Audi',
-             color:"black",
-             model:444,
-            function:function() {
-                return this.name + " coloer of car"+this.color;
+// const car  = {name:'Audi',
+//              color:"black",
+//              model:444,
+//             fullname:function() {
+//                 return this.name + " "+this.color;
                 
-            }}
-console.log(car);
+//           }}
+// console.log(car.fullname());
+
+
+//   x= 4;
+//   console.log(typeof(x));
