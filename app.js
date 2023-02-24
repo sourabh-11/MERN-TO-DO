@@ -171,3 +171,32 @@
 
 
 // 
+// let a =23;
+// console.log(a);
+// b=a.toString();
+// console.log(b);
+// console.log(typeof(b));
+// console.log(typeof(a));
+let x = 9.656;
+// x.toExponential(4);
+// x.toExponential(6)
+// console.log(x.toFixed(5));
+// console.log(x.toPrecision(3));
+// console.log(x.valueOf());
+
+// console.log(x.parseInt);
+// console.log( Number("10 33"));
+// console.log(Number.isNaN(x));
+// console.log(Number.isNaN("123"))
+// console.log(Number(true),
+// Number(false),
+// Number("10"),
+// Number("  10"),
+// Number("10  "),
+// Number(" 10  "),
+// Number("10.33"),
+// Number("10,33"),
+// Number("10 33"),
+// Number("John"))
+
+// console.log(parseInt("-10"));
