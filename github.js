@@ -79,17 +79,20 @@
 // console.log(freddie.colorChange('orange'));
 
 // 8
-class Person {
-  constructor() {
-    this.name = 'Lydia';
-  }
-}
+// class Person {
+//   constructor() {
+//     this.name = 'Lydia';
+//   }
+// }
 
-Person = class AnotherPerson {
-  constructor() {
-    this.name = 'Sarah';
-  }
-};
+// Person = class AnotherPerson {
+//   constructor() {
+//     this.name = 'Sarah';
+//   }
+// };
 
-const member = new Person();
-console.log(member.name);
+// const member = new Person();
+// console.log(member.name);
+
+[1, 2, 3, 4].reduce((x, y)=>
+ console.log(x, y));
