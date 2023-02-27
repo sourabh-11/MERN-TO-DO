@@ -94,5 +94,18 @@
 // const member = new Person();
 // console.log(member.name);
 
-[1, 2, 3, 4].reduce((x, y)=>
- console.log(x, y));
+// [1, 2, 3, 4].reduce((x, y)=>
+//  console.log(x, y));
+
+
+function Person(firstName, lastName) {
+  this.firstName = firstName;
+  this.lastName = lastName;
+}
+
+const member = new Person('Lydia', 'Hallie');
+Person.getFullName = function() {
+  return `${this.firstName} ${this.lastName}`;
+};
+
+console.log(member.getFullName());
