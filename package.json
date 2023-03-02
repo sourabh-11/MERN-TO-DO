@@ -1,0 +1,22 @@
+{
+  "name": "mern-to-do",
+  "version": "1.0.0",
+  "description": "\"this is lodash tutorial\"",
+  "main": "Hoisting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh-11/MERN-TO-DO.git"
+  },
+  "author": "sourabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh-11/MERN-TO-DO/issues"
+  },
+  "homepage": "https://github.com/sourabh-11/MERN-TO-DO#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
