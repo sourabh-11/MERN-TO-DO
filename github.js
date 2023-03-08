@@ -77,3 +77,19 @@
 
 // const freddie = new Chameleon({ newColor: 'purple' });
 // console.log(freddie.colorChange('orange'));
+
+// 8
+class Person {
+  constructor() {
+    this.name = 'Lydia';
+  }
+}
+
+Person = class AnotherPerson {
+  constructor() {
+    this.name = 'Sarah';
+  }
+};
+
+const member = new Person();
+console.log(member.name);
