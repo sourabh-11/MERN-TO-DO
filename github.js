@@ -98,14 +98,67 @@
 //  console.log(x, y));
 
 
-function Person(firstName, lastName) {
-  this.firstName = firstName;
-  this.lastName = lastName;
-}
+// function Person(firstName, lastName) {
+//   this.firstName = firstName;
+//   this.lastName = lastName;
+// }
 
-const member = new Person('Lydia', 'Hallie');
-Person.getFullName = function() {
-  return `${this.firstName} ${this.lastName}`;
-};
+// const member = new Person('Lydia', 'Hallie');
+// Person.getFullName = function() {
+//   return `${this.firstName} ${this.lastName}`;
+// };
 
-console.log(member.getFullName());
+// console.log(member.getFullName());
+
+// 24
+// const obj = { a: 'one', b: 'two', a: 'three' };
+// console.log(obj);
+// console.log(obj)
+// console.log(obj);
+
+// for (let i = 1; i < 5; i++) {
+//     if (i === 3) continue;
+//     console.log(i);
+//   }
+
+
+
+
+// String.prototype.giveLydiaPizza = () => {
+//     return 'Just give Lydia pizza already!';
+//   };
+  
+//   const name = 'Lydia';
+  
+//   console.log(name.giveLydiaPizza())
+
+
+// const a = {};
+// const b = { key: 'b' };
+// const c = { key: 'c' };
+// console.log(a);
+
+// a[b] = 123;
+// a[c] = 456;
+// console.log(b);
+
+// console.log(a[c]);
+
+
+// const person = {
+//     name: 'Lydia',
+//     age: 21,
+//   };
+  
+//   for (const item in person) {
+//     console.log(item);
+//   }
+
+// const num = parseInt('7*6', 10);
+// console.log(num);
+
+// [1, 2, 3].map(num => {
+//     if (typeof num === 'number') return;
+//     return num * 2;
+//   });
+//   console.log(num);
