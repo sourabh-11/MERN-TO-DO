@@ -162,3 +162,23 @@
 //     return num * 2;
 //   });
 //   console.log(num);
+
+
+
+
+// map in java script
+// let arr= [1,4,9,16,25];
+// console.log(arr.map(Math.sqrt));
+
+// let c = 23.3;
+//  console.log(Math.round(c));
+
+
+// const ages = [32, 33, 12, 40];
+
+// function checkAge(age) {
+//   return age > document.getElementById("ageToCheck").value;
+// }
+
+
+// console.log(ages.filter(checkAge));
