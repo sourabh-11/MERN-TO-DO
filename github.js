@@ -359,14 +359,42 @@
 //   await newpromise;
 // }
 // myDisplayer();
+// function getItems(fruitList, ...args, favoriteFruit) {
+//   return [...fruitList, ...args, favoriteFruit]
+// }
+
+// getItems(["banana", "apple"], "pear", "orange")
 
 
 
 
 
+// function nums(a, b) {
+//   if (a > b) console.log('a is bigger');
+//   else console.log('b is bigger');
+//   return 
+//   a + b;
+// }
+
+// console.log(nums(4, 2));
+// console.log(nums(1, 2));
 
 
 
+// class Person {
+//     constructor() {
+//       this.name = 'Lydia';
+//     }
+//   }
+  
+//   Person = class AnotherPerson {
+//     constructor() {
+//       this.name = 'Sarah';
+//     }
+//   };
+  
+//   const member = new Person();
+//   console.log(member.name);
 
 
 
