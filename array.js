@@ -45,6 +45,7 @@ const points = [40, 100, 1, 5, 25, 10];
 // }
 // console.log(b);
 // console.log(b);
+// console.log(b);
 
 // const members = [
 //     {name: 'Vijay Gupta', age: 20},
