@@ -36,7 +36,7 @@ const points = [40, 100, 1, 5, 25, 10];
 // function myfunction(valu){
 //     a = a+valu
 // }
-// console.log(a);
+
 // console.log(index);
 // console.log(array);
 // let b = points.map(myfun);
