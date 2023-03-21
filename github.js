@@ -195,6 +195,24 @@
 // let fun2  = (total,first)=>{
 //     return total-first;
 // }
+// let fun2  = (total,first)=>{
+//     return total-first;
+// }
+// console.log(ages.reduce(fun2));
+
+// let fun2  = (total,first)=>{
+//     return total-first;
+// }
+// let fun2  = (total,first)=>{
+//     return total-first;
+// }
+// console.log(ages.reduce(fun2));
+// console.log(ages.reduce(fun2));
+
+// let fun2  = (total,first)=>{
+//     return total-first;
+// }
+
 // console.log(ages.reduce(fun2));
 
 // let fun2  = (total,first)=>{
@@ -202,6 +220,10 @@
 // }
 // console.log(ages.reduce(fun2));
 
+// let fun2  = (total,first)=>{
+//     return total-first;
+// }
+// console.log(ages.reduce(fun2));
 // let fun2  = (total,first)=>{
 //     return total-first;
 // }
